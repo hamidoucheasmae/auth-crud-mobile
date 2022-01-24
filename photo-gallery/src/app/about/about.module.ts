@@ -17,4 +17,4 @@ import { AboutPageRoutingModule } from './about-routing.module';
   ],
   declarations: [AboutPage]
 })
-export class Tab1PageModule {}
+export class AboutPageModule {}
